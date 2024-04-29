@@ -1,7 +1,9 @@
 # Clima App
 
 
-Clima App
+Clima App to access real-time weather information for your current location and any city worldwide!
+
+
 
 ## Clima App Preview
 
